@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\DateNdTime\DateNdTime\bin\Debug\DateNdTime.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\DateNdTime\DateNdTime\bin\Debug\DateNdTime.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\DateNdTime\DateNdTime\obj\x86\Debug\DateNdTime.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\DateNdTime\DateNdTime\obj\x86\Debug\DateNdTime.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\DateNdTime\DateNdTime\obj\x86\Debug\DateNdTime.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\DateNdTime\DateNdTime\bin\Debug\Dates.txt
